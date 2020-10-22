@@ -1,0 +1,36 @@
+{
+  "name": "vue-json-diff",
+  "version": "1.0.0",
+  "description": "A json diff vue component",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/qinxm/vue-json-diff.git"
+  },
+  "keywords": [
+    "json",
+    "diff",
+    "vue",
+    "fehelper"
+  ],
+  "author": "qinxm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinxm/vue-json-diff/issues"
+  },
+  "homepage": "https://github.com/qinxm/vue-json-diff#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-pwa": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
