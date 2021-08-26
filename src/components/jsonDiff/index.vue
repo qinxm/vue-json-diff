@@ -111,7 +111,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style>
+<style scoped>
 @import url("./static/css/codemirror.css");
 /* @import url("./bootstrap.min.css"); */
 
